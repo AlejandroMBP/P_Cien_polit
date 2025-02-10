@@ -1,0 +1,6 @@
+# variables en archivo .env
+# ciencias politicas 
+NEXT_PUBLIC_API_URL=https://serviciopagina.upea.bo/api/
+
+NEXT_PUBLIC_ID_CARRERA=24
+NEXT_PUBLIC_ID_INSTITUCION=44
